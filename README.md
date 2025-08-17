@@ -40,3 +40,5 @@ Product → Product name (Laptop, Mobile, etc.)
 Region → Region of sale (North, South, East, West)
 
 Sales → Sales amount
+
+
